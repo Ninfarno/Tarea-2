@@ -1,4 +1,7 @@
 Autor: Luis Mendoza Madriz
+
+Los archivos se encuentran en la carpeta src
+
 Instrucciones: 
 - IntercambioDeValores.java: Introducir dos numeros enteros y este le regresera los valores de a y b invertidos
 - ConvertidorDeValores.Java: introducir un numero entero y este le regresara en valor Hexadecimal, Octal y Binario
