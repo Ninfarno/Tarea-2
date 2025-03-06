@@ -1,0 +1,9 @@
+¿Cual es la diferencia entre un método estático y los métodos de instancia?
+Metodo estatico: Este metodo se define dentro de una clase, pero no requiere de una 
+instancia para ser llamado, no puede acceder a los atributos ni metodos de instancia,
+solo a los que pasan como argumentos al método. Se utiliza cuando la funcionalidadno depende
+del estado del objeto ni de la clase.
+Metodo de instancia: Este metodo al igual que el anterior se define dentro de una clase con la
+diferencia de que este requiere de una instancia para ser llamado, ademas, el primer parametro de
+estas instancias requiere que haga referencia al objeto en el que se llama y puede acceder a los 
+atributos y metodos de instancia de la clase
